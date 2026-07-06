@@ -1,0 +1,5 @@
+When I loaded the website, the browser sent an HTTP request to the server using the requested URL and HTTP method (such as GET). 
+The request included headers containing information like the browser type and accepted content formats. The server received the request, 
+processed it, and generated an appropriate response. It then returned an HTTP response containing response headers with metadata such as the 
+content type and status. The response also included a body containing the requested HTML, JSON, image, or other data. Finally, the browser
+interpreted the response and rendered the webpage for the user.
